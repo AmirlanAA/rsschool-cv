@@ -1,6 +1,6 @@
 #Cirriculum vitae
 
-==========
+===
 
 1. Full name: Aimukhan Amirlan
 
