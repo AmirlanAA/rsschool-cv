@@ -20,13 +20,12 @@
 	- Basic JS
 
 6. Code example:
-	```
+```
 var str = 'Amirlanister';
 alert(str.substr(7, 5)); 
 alert(str.substring(7, 12)); 
 alert(str.slice(7, 12)); 
-
-	```
+```
 7. Education and courses:
 	- CS50 video course
 	- JS, CSS, HTML, Git video courses on YouTube 
